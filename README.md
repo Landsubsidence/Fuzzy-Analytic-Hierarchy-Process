@@ -1,1 +1,1 @@
-# Fuzzy-Analytic-Hierarchy-Process
+# Fuzzy-Analytic-Hierarchy-Process model
